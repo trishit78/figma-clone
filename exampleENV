@@ -1,0 +1,1 @@
+DATABASE_URL="postgres://neondb_owner:npg_2qGXClNHEx7I@ep-fancy-salad-adqnmgiy-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require"
